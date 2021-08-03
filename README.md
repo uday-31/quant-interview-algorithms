@@ -1,2 +1,2 @@
-# quant-interview-prep
+# quant-interview-algorithms
  Practice for quant interviews
